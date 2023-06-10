@@ -16,7 +16,7 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 ### Python
 
-- `Game Snake.py`: un juego clásico de la serpiente (Snake) en el que el usuario controla la serpiente y trata de comer la mayor cantidad de comida sin chocar con las paredes o con su propia cola. La interfaz gráfica de usuario (GUI) está construida con la biblioteca Tkinter de Python.
+- `Snake Game.py`: un juego clásico de la serpiente (Snake) en el que el usuario controla la serpiente y trata de comer la mayor cantidad de comida sin chocar con las paredes o con su propia cola. La interfaz gráfica de usuario (GUI) está construida con la biblioteca Tkinter de Python.
 
 - `Calculadora.py`: una calculadora simple que permite realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. La calculadora tiene una interfaz gráfica de usuario (GUI) construida con la biblioteca Tkinter de Python. La interfaz de usuario incluye botones para los dígitos y operaciones, y muestra el resultado de la operación en tiempo real. La calculadora utiliza Python y Tkinter para su diseño y funcionalidad.
 

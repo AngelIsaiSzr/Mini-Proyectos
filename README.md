@@ -20,6 +20,10 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 - `Calculadora.py`: una calculadora simple que permite realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. La calculadora tiene una interfaz gráfica de usuario (GUI) construida con la biblioteca Tkinter de Python. La interfaz de usuario incluye botones para los dígitos y operaciones, y muestra el resultado de la operación en tiempo real. La calculadora utiliza Python y Tkinter para su diseño y funcionalidad.
 
+- `Generador de Contraseñas.py`: un programa con una interfaz gráfica de usuario que genera contraseñas aleatorias de una longitud específica, utilizando una combinación de letras, números y símbolos. El usuario puede especificar la longitud de la contraseña y el programa generará una contraseña segura y aleatoria para su uso. La interfaz de usuario incluye botones para generar una nueva contraseña y copiar la contraseña al portapapeles.
+
+- `Juego de Adivinar.py`: un juego con una interfaz gráfica de usuario en el que el programa escoge un número aleatorio entre 1 y 100 y el usuario debe adivinar cuál es ese número. El usuario tiene 10 intentos para adivinar el número correcto antes de perder el juego. La interfaz de usuario incluye botones para ingresar el número a adivinar, verificar si el número es correcto y jugar de nuevo. El juego utiliza Python y Tkinter para su diseño y funcionalidad.
+
 ### Java
 
 - `MenuMatematico.java`: un programa que muestra un menú con diferentes opciones matemáticas (calculadora, tablas de multiplicar y conversor). El usuario puede seleccionar una opcion y luego ingresar los valores correspondientes.

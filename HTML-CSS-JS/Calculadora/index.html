@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Encabezado principal -->
+    <h1>Calculadora</h1>
 
+    <!-- Contenedor principal de la calculadora -->
+    <div class="calculator">
+        <!-- Pantalla de la calculadora -->
+        <div class="display">
+            <div class="display-screen"></div>
+        </div>
+
+        <!-- Botones de la calculadora -->
+        <div class="buttons">
+            <!-- Botón para deshacer la última acción -->
+            <button class="button undo" value="R">&#x21B6;</button>
+
+            <!-- Botón para borrar todo -->
+            <button class="button clear" value="clear">C</button>
+
+            <!-- Botón para borrar un solo dígito -->
+            <button class="button clearOne" value="clearOne">CE</button>
+
+            <!-- Botón de igual -->
+            <button class="button equal" value="=">=</button>
+
+            <!-- Números del 7 al 0 y el punto decimal -->
+            <button class="button" value="7">7</button>
+            <button class="button" value="8">8</button>
+            <button class="button" value="9">9</button>
+            <button class="button operator" value="/">/</button>
+            <button class="button" value="4">4</button>
+            <button class="button" value="5">5</button>
+            <button class="button" value="6">6</button>
+            <button class="button operator" value="*">*</button>
+            <button class="button" value="1">1</button>
+            <button class="button" value="2">2</button>
+            <button class="button" value="3">3</button>
+            <button class="button operator" value="-">-</button>
+            <button class="button" value="0">0</button>
+            <button class="button" value="000">000</button>
+            <button class="button" value=".">.</button>
+            <button class="button operator" value="+">+</button>
+        </div>
+    </div>
+
+    <!-- Archivo JavaScript para la funcionalidad de la calculadora -->
+    <script src="script.js"></script>
+</body>
+</html>

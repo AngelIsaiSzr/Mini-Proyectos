@@ -30,9 +30,8 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 ### HTML/CSS/JavaScript
 
-- `Pagina Web Mates`: una página web simple que contiene algunas herramientas matematicas. La página incluye imágenes e informacion breve sobre cada herramienta, y utiliza HTML, CSS y JavaScript para su diseño y funcionalidad.
-¡Claro! Agreguemos la descripción de la calculadora básica en HTML/CSS/JavaScript:
+- `Pagina Web Mates`: una página web simple que contiene algunas herramientas matematicas. La página incluye imágenes e informacion breve sobre cada herramienta, y utiliza HTML, CSS y JavaScript para su diseño y funcionalidad. (En construcción y mantenimiento)
 
 - `Calculadora Básica`: una calculadora simple que permite realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. La calculadora tiene una interfaz de usuario intuitiva con botones para los dígitos y operaciones, y muestra el resultado de la operación en tiempo real. La calculadora utiliza HTML, CSS y JavaScript para su diseño y funcionalidad.
 
-¡Espero que estos mini-proyectos te resulten interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+¡Espero que estos mini-proyectos te resulten interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en contactarme :D

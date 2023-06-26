@@ -32,4 +32,6 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 - `Calculadora Básica`: una calculadora simple que permite realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. La calculadora tiene una interfaz de usuario intuitiva con botones para los dígitos y operaciones, y muestra el resultado de la operación en tiempo real. La calculadora utiliza HTML, CSS y JavaScript para su diseño y funcionalidad.
 
+- `Tipos de Café`: una página que presenta información sobre los tres tipos de café más comunes: café americano, café expreso y café con leche. La página incluye descripciones de los sabores y aromas de cada tipo, así como información sobre el origen y las regiones donde se cultivan. La página utiliza HTML y CSS para su diseño y presentación de información.
+
 ¡Espero que estos mini-proyectos te resulten interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en contactarme :D

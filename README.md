@@ -36,4 +36,6 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 - `Menú de Cafetería`: una página simple que presenta el menu de una cafeteria, con los diferentes cafes y postres que ofrece dicha cafeteria. La página incluye el costo de cada café y postre. La página utiliza HTML y CSS para su diseño y presentación.
 
+- `Formulario de Registro`: un formulario de registro simple con un diseño atractivo y llamtivo que puede ser usado como base para otro formulario. La página incluye una api que tambien puede ser util. La página utiliza HTML y CSS para su diseño y presentación.
+
 ¡Espero que estos mini-proyectos te resulten interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en contactarme :D

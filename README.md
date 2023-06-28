@@ -34,4 +34,6 @@ A continuación se describen brevemente los proyectos incluidos en cada carpeta:
 
 - `Tipos de Café`: una página que presenta información sobre los tres tipos de café más comunes: café americano, café expreso y café con leche. La página incluye información basica sobre cada tipo de café. La página utiliza HTML y CSS para su diseño y presentación de información.
 
+- `Menú de Cafetería`: una página simple que presenta el menu de una cafeteria, con los diferentes cafes y postres que ofrece dicha cafeteria. La página incluye el costo de cada café y postre. La página utiliza HTML y CSS para su diseño y presentación.
+
 ¡Espero que estos mini-proyectos te resulten interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en contactarme :D

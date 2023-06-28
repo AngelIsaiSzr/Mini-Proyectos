@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/icon.ico">
+    <title>Formulario de Registro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Formulario de Registro</h1>
+    <p>Por favor llene este formulario con la información requerida</p>
+    <form method="post" action="https://jsonplaceholder.typicode.com/posts">
+        <fieldset>
+            <label for="first-name">Ingrese Su Nombre: <input id="first-name" name="first-name" type="text"
+                    required></label>
+            <label for="last-name">Ingrese Su Apellido: <input id="last-name" name="last-name" type="text"
+                    required></label>
+            <label for="email">Ingrese Su Correo: <input id="email" name="email" type="email" required></label>
+            <label for="new-password">Cree una Nueva Contraseña: <input id="new-password" name="new-password"
+                    type="password" pattern="[A-Za-z0-9]{8,}" required></label>
+        </fieldset>
+        <fieldset>
+            <label for="personal-account"><input id="personal-account" type="radio" name="account-type"
+                    class="inline"> Cuenta Personal</label>
+            <label for="business-account"><input id="business-account" type="radio" name="account-type"
+                    class="inline"> Cuenta de Negocios</label>
+            <label for="terms-and-conditions">
+                <input id="terms-and-conditions" type="checkbox" required name="terms-and-conditions" class="inline">
+                Acepto los <a href="https://termsfeed.com/blog/sample-terms-and-conditions-template" target="_blank">terminos y condiciones</a>
+            </label>
+        </fieldset>
+        <fieldset>
+            <label for="profile-picture">Suba una foto de perfil: <input id="profile-picture" type="file"
+                    name="file"></label>
+            <label for="age">Ingrese su edad (años): <input id="age" type="number" name="age" min="13"
+                    max="120"></label>
+            <label for="referrer">¿Cómo se enteró de nosotros?
+                <select id="referrer" name="referrer">
+                    <option value="">(seleccione uno)</option>
+                    <option value="1">Facebook</option>
+                    <option value="2">GitHub</option>
+                    <option value="3">Instagram</option>
+                    <option value="4">Otro</option>
+                </select>
+            </label>
+            <label for="bio">Escriba su biografia:
+                <textarea id="bio" name="bio" rows="3" cols="30"
+                    placeholder="Me gusta programar en la playa..."></textarea>
+            </label>
+        </fieldset>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+    background-color: khaki;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.container {
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 80%;
+    height: 500px;
+}
+
+textarea {
+    width: 99.5%;
+    height: 99%;
+    resize: none;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+button {
+    display: inline-block;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 16px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: white;
+}
